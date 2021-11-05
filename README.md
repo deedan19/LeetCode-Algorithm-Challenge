@@ -1,4 +1,5 @@
 # LeetCode-Algorithm-Challenge
+This repo highlight some simple Leetcode algorithm challenges for beginners. If you find this helpful, please share.
 
 #### Search Insert
 ```swift
